@@ -59,7 +59,7 @@
       "name": "Simcorp",
       "position": "Senior DevOps Engineer",
       "startDate": "2024-08",
-      "endDate: "2025-01",
+      "endDate": "2025-01",
       "highlights": [
         "Integrate Snowflake data marketplace to product offering",
         "Help launch Qlik offering to production",
@@ -313,7 +313,7 @@
         "Kubernetes",
         "Openshift",
         "Docker",
-        "Packer",
+        "Packer"
       ]
     },
     {
@@ -351,7 +351,7 @@
         "Azure Service Bus",
         "AWS SQS"
       ]
-    }
+    },
     {
       "name": "AI/LLM/Agents",
       "keywords": [
